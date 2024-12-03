@@ -1,6 +1,5 @@
 <odoo>
     <data>
-
         <record model="ir.actions.act_window" id="olamundo_list_action">
             <field name="name">A accion de ola mundo</field>
             <field name="res_model">odoo_olamundo.olamundo</field>
